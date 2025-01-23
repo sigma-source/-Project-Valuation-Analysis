@@ -48,13 +48,13 @@ The dataset contains information on unicorn startups, including:
    - **Purpose**: Highlights the geographic trends in startup valuations.
    - **Location in Report**: Included in the "Exploratory Data Analysis" section.
 
-   ![Top 10 Countries Visualization](output/top_10_countries.png)
+
 
 ### 2. **Top 10 Feature Importances**
    - **Purpose**: Shows the key factors influencing unicorn startup valuations, based on the Random Forest model.
    - **Location in Report**: Placed in the "Feature Importance" section.
 
-   ![Feature Importance Visualization](output/feature_importance.png)
+
 
 ---
 
